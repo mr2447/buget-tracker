@@ -1,1 +1,1 @@
-# buget-tracker
+# Budget Tracker Starter Code
